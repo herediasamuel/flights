@@ -1,0 +1,49 @@
+Mapa de interconexión satelital
+1 Shukra
+2 Io
+3 Sirio
+4 Mangala
+5 Alfa_Centauri
+6 Europa
+7 Guru
+8 Beta_Crucis
+9 Ganimedes
+10 Vega
+11 Capella
+12 Shani
+13 Rigel
+14 Calisto
+15 Budha
+16 Alfa_Crucis
+0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+1 0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 
+0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 
+0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+0 1 0 0 0 0 0 1 0 1 0 0 1 0 0 0 
+0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+
+Plan de Viaje entre: Shukra Sirio 
+Shukra-Alfa_Crucis-Afrodita_Urania-Aisa-Beta_Crucis-Guru-Capella-Sirio
+El combustible inicial no es suficiente
+
+Plan de Viaje entre: Alfa_Crucis Rigel 
+Alfa_Crucis-Mangala-Vega-Budha-Rigel
+El combustible inicial no es suficiente
+
+Plan de Viaje entre: Rigel Shukra 
+Rigel-Io-Laquesis-Afrodita_Urania-Alfa_Crucis-Shukra
+El combustible inicial no es suficiente
+
+Plan de Viaje entre: Io Shukra 
+Io-Laquesis-Afrodita_Urania-Alfa_Crucis-Shukra
+El combustible inicial no es suficiente
